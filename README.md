@@ -2,7 +2,7 @@
 
 [Play the Game Here (WebGL Build)](https://storage.googleapis.com/flappy-bird-clone/index.html)
 
-Press 'p' to pause and to traverse back to menu. I never included this in UI!
+Press 'p' to pause and to traverse back to menu. I never included this in the UI!
 
 ## Game Engine
 - **Unity**
